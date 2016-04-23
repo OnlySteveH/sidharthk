@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/fragment_inbox.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/fragment_view_image.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/fragment_view_image.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/message_item.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/message_item.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/user_item.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/user_item.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/fragment_recipients.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/fragment_recipients.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/auth_common.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/auth_common.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/activity_view_image.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/activity_view_image.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout/user_grid.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout/user_grid.xml"
+    }
+]

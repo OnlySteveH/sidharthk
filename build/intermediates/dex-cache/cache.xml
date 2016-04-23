@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stevehunter/Development/Ribbit2/app/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c">
+        <dex dex="/Users/stevehunter/Development/Ribbit2/app/build/intermediates/pre-dexed/debug/Parse-1.5.1-3893e3d961af26b67bc8943c5ad5bb8657348654.jar" />
+    </item>
+    <item
+        jar="/Users/stevehunter/Development/Ribbit2/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/stevehunter/Development/Ribbit2/app/build/intermediates/pre-dexed/debug/commons-io-2.4-32f8ff926402334a9ef38b81aad097b23fb4dd7d.jar" />
+    </item>
+    <item
+        jar="/Users/stevehunter/Development/Ribbit2/app/libs/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/stevehunter/Development/Ribbit2/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-9bccbe8769aceed42088de782d82ebe67be3b688.jar" />
+    </item>
+    <item
+        jar="/Users/stevehunter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/stevehunter/Development/Ribbit2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1691c6597dc7346e2492a304f1d0afa3d59d766f.jar" />
+    </item>
+
+</items>

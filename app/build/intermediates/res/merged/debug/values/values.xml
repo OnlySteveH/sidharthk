@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="camera_choices">
+        <item>Take picture</item>
+        <item>Take video</item>
+        <item>Choose picture</item>
+        <item>Choose video</item>
+    </string-array>
+    <color name="apptheme_color">#61408c</color>
+    <color name="background_purple">#3F2466</color>
+    <color name="focussed_purple_button">#d6c3ed</color>
+    <color name="light_gray">#bbbbbb</color>
+    <color name="light_purple_background">#e9e4ed</color>
+    <color name="light_purple_button">#e1d2f3</color>
+    <color name="pressed_purple_button">#ba9dda</color>
+    <color name="swipe_refresh_1">#482c6f</color>
+    <color name="swipe_refresh_2">#ad78d9</color>
+    <color name="swipe_refresh_3">#dcadf4</color>
+    <color name="swipe_refresh_4">#ad78d9</color>
+    <color name="text_color">#250054</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="inbox_horizontal_margin">8dp</dimen>
+    <dimen name="inbox_vertical_margin">8dp</dimen>
+    <dimen name="login_horizontal_padding">10dp</dimen>
+    <dimen name="login_vertical_margin">32dp</dimen>
+    <dimen name="login_vertical_padding">10dp</dimen>
+    <dimen name="message_list_item_vertical_margin">8dp</dimen>
+    <dimen name="message_vertical_padding">8dp</dimen>
+    <dimen name="user_grid_spacing">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Ribbit</string>
+    <string name="cancel_button_label">CANCEL</string>
+    <string name="checked_user_avatar">User image checked</string>
+    <string name="choose_friends_warning">Choose some friends first!</string>
+    <string name="content_desc_background">RibbitFrogBackgroundImage</string>
+    <string name="content_desc_button_divider">divider between two buttons</string>
+    <string name="content_desc_message_icon">Message icon</string>
+    <string name="email_hint">Email</string>
+    <string name="empty_friends_label">Add friends to begin!</string>
+    <string name="empty_inbox_label">No new messages!</string>
+    <string name="error_external_storage">There was a problem accessing your phone\'s storage.</string>
+    <string name="error_selecting_file">There was an error with the file selected. Please select a different file.</string>
+    <string name="error_sending_message">There was an error sending your message, please try again.</string>
+    <string name="error_title">We\'re sorry!</string>
+    <string name="file_error_title">We\'re sorry!</string>
+    <string name="file_too_large_error">The selected file is too large, select another file!</string>
+    <string name="from_big_dog_consultants_ltd">From Big Dog Consultants Ltd</string>
+    <string name="general_error">Sorry, there was an error</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_button_label">SIGN IN</string>
+    <string name="login_error_message">Please make sure you enter a username and password!</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="menu_camera_label">Camera</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="menu_logout_label">Logout</string>
+    <string name="menu_send_label">Send</string>
+    <string name="message_sent">Message sent!</string>
+    <string name="password_hint">Password</string>
+    <string name="push_message">You have a new Ribbit message from %s!</string>
+    <string name="sign_up_button_label">SIGN UP</string>
+    <string name="sign_up_text">Don\'t have an account? Sign Up!</string>
+    <string name="signup_error_message">Please make sure you enter a username, password, and email address!</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="test_name">Test Name</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_recipients">Choose Recipients</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_view_image">Ribbit</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="username_hint">Username</string>
+    <string name="video_file_problem">There was a problem with the selected file</string>
+    <string name="video_file_size_warning">The selected video must be less than 10MB</string>
+    <style name="ActionBar.Solid.Ribbit" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_ribbit</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_ribbit</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_ribbit</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Ribbit</item>
+        <item name="android:titleTextStyle">@style/ActionBar.Solid.Ribbit.TitleTextStyle</item>
+    </style>
+    <style name="ActionBar.Solid.Ribbit.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/text_color</item>
+        
+    </style>
+    <style name="ActionBar.Transparent.Ribbit" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_ribbit</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Ribbit</item>
+    </style>
+    <style name="ActionBarTabStyle.Ribbit" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_ribbit</item>
+    </style>
+    <style name="ActionButton.CloseMode.Ribbit" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_ribbit</item>
+    </style>
+    <style name="AuthBackground">
+        <item name="@android:background">@drawable/background_fill</item>
+    </style>
+    <style name="AuthBackgroundImage">
+        <item name="android:scaleType">fitStart</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:src">@drawable/background</item>
+    </style>
+    <style name="AuthButton" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/button_custom</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="AuthEditText" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:ems">10</item>
+        <item name="android:textColorHint">@color/light_gray</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:hint">@string/username_hint</item>
+    </style>
+    <style name="AuthFieldContainer">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/login_vertical_margin</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">@dimen/login_vertical_padding</item>
+        <item name="android:paddingLeft">@dimen/login_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/login_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/login_vertical_padding</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_below">@id/subtitle</item>
+    </style>
+    <style name="AuthSubtitle" parent="AuthTitle">
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_below">@+id/title</item>
+        <item name="android:layout_alignParentTop">false</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:text">@string/from_big_dog_consultants_ltd</item>
+    </style>
+    <style name="AuthTitle" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">60sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:text">@string/app_name</item>
+    </style>
+    <style name="DropDownListView.Ribbit" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_ribbit</item>
+    </style>
+    <style name="DropDownNav.Ribbit" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_ribbit</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_ribbit</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_ribbit</item>
+    </style>
+    <style name="GridImage">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="PopupMenu.Ribbit" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_ribbit</item>
+    </style>
+    <style name="ProgressBar.Ribbit" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_ribbit</item>
+    </style>
+    <style name="Theme.Ribbit" parent="@android:style/Theme.Holo.Light">
+        <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_ribbit</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Ribbit</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Ribbit</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Ribbit</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Ribbit</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Ribbit</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_ribbit</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_ribbit</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Ribbit</item>
+        <item name="android:actionOverflowButtonStyle">@style/Theme.Ribbit.Overflow</item>
+        <item name="android:listViewStyle">@style/Theme.Ribbit.LightPurpleBackground</item>
+        <item name="android:gridViewStyle">@style/Theme.Ribbit.LightPurpleBackground.GridView</item>
+    </style>
+    <style name="Theme.Ribbit.LightPurpleBackground">
+        <item name="android:background">@color/light_purple_background</item>
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="Theme.Ribbit.LightPurpleBackground.GridView">
+        <item name="android:padding">@dimen/user_grid_spacing</item>
+        
+    </style>
+    <style name="Theme.Ribbit.Overflow" parent="@android:style/Widget.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_overflow</item>
+    </style>
+    <style name="Theme.Ribbit.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Ribbit</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Ribbit</item>
+    </style>
+</resources>

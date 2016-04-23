@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout-large-v4/activity_login.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout-large/activity_login.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/layout-large-v4/activity_sign_up.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/layout-large/activity_sign_up.xml"
+    }
+]

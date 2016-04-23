@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/avatar_empty.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/avatar_empty.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/background.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_video.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_picture.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_picture.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_send.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_menu_send.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_camera.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_tab_friends.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_tab_friends.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_tab_inbox.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_tab_inbox.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/button_divider.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/button_divider.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/background_fill.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/background_fill.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/avatar_selected.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/avatar_selected.png"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_overflow.png",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable-xxxhdpi/ic_menu_overflow.png"
+    }
+]

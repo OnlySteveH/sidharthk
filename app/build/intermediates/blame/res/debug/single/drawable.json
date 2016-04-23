@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/spinner_background_ab_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/spinner_background_ab_ribbit.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/progress_horizontal_ribbit.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/apptheme_btn_default_holo_light.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/apptheme_btn_default_holo_light.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/ab_background_textured_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/ab_background_textured_ribbit.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/apptheme_edit_text_holo_light.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/apptheme_edit_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/btn_cab_done_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/btn_cab_done_ribbit.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/selectable_background_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/selectable_background_ribbit.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/button_custom.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/button_custom.xml"
+    },
+    {
+        "merged": "/Users/stevehunter/Development/Ribbit2/app/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_ribbit.xml",
+        "source": "/Users/stevehunter/Development/Ribbit2/app/src/main/res/drawable/tab_indicator_ab_ribbit.xml"
+    }
+]
